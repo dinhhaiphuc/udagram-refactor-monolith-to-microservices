@@ -4,7 +4,7 @@ data:
   AWS_BUCKET: project-part04-290922870433-dev  
   AWS_PROFILE: default
   AWS_REGION: us-east-1
-  JWT_SECRET: hello290922870433
+  JWT_SECRET: testing
   POSTGRES_DB: postgres
   POSTGRES_HOST: udacitydinhdev.c0zw0donr0wh.us-east-1.rds.amazonaws.com
   URL: http://localhost:8100
